@@ -1,6 +1,6 @@
 CARA JALANKAN
 
-screen -S hedge
+(screen -S hedge)
 cd hedge
 nano .env
 GANTI TOKENMU
